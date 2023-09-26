@@ -16,25 +16,35 @@ h1{
     display: inline-block;
     vertical-align: middle;
 }
-main{background-color:rgb(249, 249, 249);
+.main{background-color:rgb(249, 249, 249);
     padding-top: 20px;
-    padding-left: 35px;
+    
 }
 .container{margin: 0 auto;
     width: 600px; 
     background-color: rgb(252, 255, 255);
-    text-align: left;
-    padding-left: 35px;
     padding-top: 12px;
     border-radius: 5px;
 }
+table{border-bottom: solid;}
 .bottone {background-color: rgb(70, 171, 245);
     color: white;
     border-radius: 7px;
-    padding: 6px;
+    padding: 8px;
+    margin-left: 5%;
 }
 .bottone2{color: grey;
     border-radius: 7px;
-    padding: 6px;
+    padding: 8px;
 }
-ul{list-style: none;}
+ul{list-style: none;
+  font-size: large;}
+.check{display: inline-block;
+height: 20px;
+width: 20px;
+border: 1px solid green;
+border-radius: 50%;
+vertical-align: middle;
+text-align: center;
+color: green;
+font-size: medium;}
