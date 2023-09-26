@@ -1,0 +1,18 @@
+body {margin:auto;
+padding: 10px;
+font-family: 'Roboto', sans-serif;
+}
+
+#logo{background-image:url(../img/Logo.png);
+display: inline-block;
+background-color: white;
+height:50px;
+width: 50px;
+background-repeat: no-repeat;
+vertical-align: middle;
+}
+
+h1{display: inline-block;
+vertical-align: middle;
+font-family: 'Roboto', sans-serif;
+}
